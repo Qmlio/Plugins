@@ -1,0 +1,3 @@
+module QmlioNative
+plugin qmlioNative
+typeinfo plugin.qmltypes
