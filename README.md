@@ -1,2 +1,2 @@
-# Plugins
+# Qmlio Plugins
 contains Qmlio plugins
