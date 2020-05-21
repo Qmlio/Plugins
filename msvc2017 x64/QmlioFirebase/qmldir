@@ -1,0 +1,3 @@
+module QmlioFirebase
+plugin qmlioFirebase
+typeinfo plugin.qmltypes
